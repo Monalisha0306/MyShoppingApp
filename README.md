@@ -29,7 +29,8 @@
 
 
 - **Product Detail**  
-  
+  ![image](https://github.com/user-attachments/assets/d25d56de-049d-4bdb-b51e-868592b262ad)
+
 
 - **Cart Page**  
   
