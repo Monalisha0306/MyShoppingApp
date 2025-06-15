@@ -25,7 +25,8 @@
 
 
 - **Home Page**  
-  
+  ![image](https://github.com/user-attachments/assets/275240f8-c4f7-424b-ae39-584195fa92ac)
+
 
 - **Product Detail**  
   
