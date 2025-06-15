@@ -33,7 +33,8 @@
 
 
 - **Cart Page**  
-  
+  ![image](https://github.com/user-attachments/assets/ace5bb72-913f-48e0-bc55-f12a577fc7c1)
+
 
 - **Add to Cart**  
   
