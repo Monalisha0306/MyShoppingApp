@@ -1,6 +1,6 @@
-# 🛍️ BuddyBazaar
+# 🛍️ pink venom
 
-**BuddyBazaar** is a smart, simple, and user-friendly React Native shopping app built with Expo. It allows users to browse products, add them to a cart or wishlist, and manage their profile — all with a clean and modern UI.
+**pink venom** is a smart, simple, and user-friendly React Native shopping app built with Expo. It allows users to browse products, add them to a cart or wishlist, and manage their profile — all with a clean and modern UI.
 
 ## ✨ Features
 - 🔐 Authentication (Login, Register)
@@ -44,6 +44,4 @@
   ![Logout](https://github.com/Punyashree-02/BuddyBazaar/blob/main/assets/LOGOUT.jpg)
 
 
-## VideoImplementation
-![Video] (https://github.com/Punyashree-02/BuddyBazaar/blob/main/assets/Video%20implementation.mp4)
 
