@@ -39,15 +39,11 @@
 - **Add to Cart**  
   ![image](https://github.com/user-attachments/assets/a1197fb8-d427-4a99-afcf-7e8aa1515327)
 
-
-- **Remove from Cart**  
-  
-
-- **Profile Page**  
   
 
 - **Logout Screen**  
-  
+  ![image](https://github.com/user-attachments/assets/9c18b070-13fa-4323-99d1-9daa2996697d)
+
 
 
 
